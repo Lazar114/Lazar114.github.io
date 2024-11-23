@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default OLD I7 2600 CPU
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
