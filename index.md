@@ -12,8 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 BIOGRAFIJA
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-PRAVLJENJE RAZNIH PPT
+Zainteresovan sam za tehnologiju, a posebno za sklapanje i popravku računara. Volim da istražujem različite operativne sisteme i specijalizujem se u instaliranju i podešavanju Office paketa i Windows sistema. Kroz ove aktivnosti ne samo da razvijam svoje tehničke veštine, već i stalno proširujem svoje znanje o računarskim tehnologijama i njihovoj primeni.
 
 ## Header 2
 
