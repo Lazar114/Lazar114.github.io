@@ -1,8 +1,8 @@
 ---
-layout: default OLD I7 2600 CPU
+layout: default 
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Text can be **bold**, _italic_, or ~~strikethrough~~. I7 2600 STARI PROCESOR
 
 [Link to another page](./another-page.html).
 
