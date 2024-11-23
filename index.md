@@ -1,13 +1,7 @@
 ---
 layout: default 
 ---
-
-
-
-
-BIOGRAFIJA
-
-Zainteresovan sam za tehnologiju, a posebno za sklapanje i popravku računara. Volim da istražujem različite operativne sisteme i specijalizujem se u instaliranju i podešavanju Office paketa i Windows sistema. Kroz ove aktivnosti ne samo da razvijam svoje tehničke veštine, već i stalno proširujem svoje znanje o računarskim tehnologijama i njihovoj primeni.
+Zdravo! Ja sam Lazar Krušković, entuzijasta u svetu tehnologije, računara i softverskih sistema. Na ovoj stranici želim da podelim svoje projekte, ideje i znanje. Cilj mi je da inspirišem druge i prikažem kako tehnologija može olakšati svakodnevni život.
 
 ## Header 2
 
