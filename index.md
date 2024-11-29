@@ -77,7 +77,7 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Branching](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ### Large image
 
