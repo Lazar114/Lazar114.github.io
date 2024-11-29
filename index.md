@@ -3,18 +3,15 @@ layout: default
 ---
 Zdravo! Ja sam Lazar Krušković, entuzijasta u svetu tehnologije, računara i softverskih sistema. Na ovoj stranici želim da podelim svoje projekte, ideje i znanje. Cilj mi je da inspirišem druge i prikažem kako tehnologija može olakšati svakodnevni život.
 
+O meni
+Trenutno se bavim razvojem i primenom najnovijih tehnologija u različitim industrijama. Kroz strast prema inovacijama, stalno istražujem nove načine kako da unapredim tehnološke procese i rešenja. Moja fokusiranost je na [navesti specifičnu oblast, npr. softverski razvoj, veštačka inteligencija, IT infrastruktura, digitalna transformacija], i cilj mi je da omogućim efikasnije, sigurnije i korisnicima orijentisane tehnologije.
+
+U današnjem svetu koji se brzo menja, važno je pratiti tehnološke trendove i primenjivati ih na pravi način. Kroz svoje projekte, uvek se trudim da pronađem balans između inovativnosti i praktičnosti, stvarajući rešenja koja donose dugoročnu vrednost.
 
 
 
-### Header 3
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+
 
 ```ruby
 # Ruby code with syntax highlighting
